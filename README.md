@@ -1,6 +1,6 @@
 - Hi, I’m Yusif Abbasov
 - I’m interested in Data Science
-- I’m currently learning Java
+- I’m currently learning Machine Learning
 - I’m looking to collaborate on project and Startups
 - How to reach me - by using my sosial media 
 
